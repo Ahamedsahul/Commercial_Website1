@@ -1,4 +1,4 @@
-<img width="1905" height="1078" alt="image" src="https://github.com/user-attachments/assets/7ae73724-ead4-4b56-84d3-4dec1adc019e" /># Ex02 Commercial Website
+# Ex02 Commercial Website
 ## Date: 30-10-2024
 
 ## Name : Ahamed Sahul Hameed M
@@ -387,9 +387,10 @@ footer {
 
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/876c85fc-94dc-4f49-8e02-29809752712a" />
 
+<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/a0b78550-a3ed-4c74-a808-abbc9644dd6f" />
+
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/445eda82-deae-4217-a4dd-2e2f463fbd6f" />
 
-<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/a0b78550-a3ed-4c74-a808-abbc9644dd6f" />
 
 
 ## RESULT
