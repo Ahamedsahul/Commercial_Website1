@@ -1,5 +1,8 @@
 # Ex02 Commercial Website
-## Date:
+## Date: 30-10-2024
+
+## Name : Ahamed Sahul Hameed M
+## Register Number : 212224040016
 
 ## AIM
 To create a commercial website using CSS Flexbox.
