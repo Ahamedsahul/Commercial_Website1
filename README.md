@@ -1,4 +1,4 @@
-# Ex02 Commercial Website
+<img width="1905" height="1078" alt="image" src="https://github.com/user-attachments/assets/7ae73724-ead4-4b56-84d3-4dec1adc019e" /># Ex02 Commercial Website
 ## Date: 30-10-2024
 
 ## Name : Ahamed Sahul Hameed M
@@ -383,13 +383,14 @@ footer {
 
 ## OUTPUT
 
-<img width="1905" height="1078" alt="image" src="https://github.com/user-attachments/assets/5f021d4c-930f-4338-b89e-39d20535ea7f" />
+<img width="1905" height="1078" alt="image" src="https://github.com/user-attachments/assets/de288934-68e7-4d3e-b16c-d772d93f163a" />
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b95dd4f8-a6ea-424b-8c3a-a3bc1dfc253c" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/876c85fc-94dc-4f49-8e02-29809752712a" />
 
-<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/53ef9ac8-f240-4bbf-ae48-3b23e3f93edb" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/445eda82-deae-4217-a4dd-2e2f463fbd6f" />
 
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/67a84170-c033-4cd4-8756-a45dc46eb44d" />
+<img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/a0b78550-a3ed-4c74-a808-abbc9644dd6f" />
+
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
